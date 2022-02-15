@@ -1,4 +1,4 @@
-# Is the Earth flat? 🌎 
+# Is the Earth flat? A Sciense website 🌎 
 Website created to criticize and debate the Flat Earth idea.
 
 ## Technologies
